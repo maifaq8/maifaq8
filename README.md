@@ -3,8 +3,8 @@
 
 ## Люди, вошедшие в историю
 
-* devepodete [:octocat:Gtithub](https://github.com/devepodete)
-* Dmitry4K [:octocat:Gtithub](https://github.com/Dmitry4K)
+* devepodete [:octocat:Github](https://github.com/devepodete)
+* Dmitry4K [:octocat:Github](https://github.com/Dmitry4K)
 
 ## Как делать пулл реквесты?
 
